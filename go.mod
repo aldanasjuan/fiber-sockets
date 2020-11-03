@@ -1,4 +1,4 @@
-module github.com/aldanasjuan/sockets
+module github.com/aldanasjuan/fiber-sockets
 
 go 1.15
 
